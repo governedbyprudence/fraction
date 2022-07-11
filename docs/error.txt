@@ -1,0 +1,3 @@
+
+[91mApplication error:[39;49;00m
+config directory doesn't contain a conf.py file (../res)

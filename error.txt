@@ -1,0 +1,3 @@
+
+[91mSphinx error:[39;49;00m
+master file C:\Users\Punnyartha\Documents\self\fraction\res\index.rst not found
