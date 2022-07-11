@@ -7,4 +7,4 @@
 <h5>Numpy</h5>
 
 Read The documentation here ! 
-<a href="#">Doc</a>
+<a href="/doc.md">Doc</a>
